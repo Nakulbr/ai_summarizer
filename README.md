@@ -57,14 +57,6 @@ This will start the development server, and you can access the AI Summarizer thr
 
 For more details on how to use the Article Extractor and Summarizer API, refer to the official API documentation on [RapidAPI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support and Contact
-
-If you have any questions, issues, or need assistance with the AI Summarizer project, feel free to contact us at [dev.nakulbr@gmail.com].
-
 ---
 
 Happy summarizing! 📚🤖

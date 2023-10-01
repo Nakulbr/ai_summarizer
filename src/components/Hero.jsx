@@ -10,7 +10,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() => {
-            window.open("https://youtube.com");
+            window.open("https://github.com/Nakulbr/ai_summarizer.git");
           }}
           className="black_btn"
         >
